@@ -1,1 +1,1 @@
-# aws-hackathon-2022
+# AWS Hackathon Project - Predicting Severity of Wildfires in California
