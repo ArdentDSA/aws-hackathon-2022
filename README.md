@@ -1,4 +1,4 @@
-# Ardent DSA Team Entry for AWS Disaster Response Hackathon - Predicting Severity of Wildfires in California
+# Ardent DSA Team Entry for AWS Disaster Response Hackathon
 
 Collaborative project of the Ardent DSA team to build a ML model and compete in the 2022 AWS Hackathon
 
