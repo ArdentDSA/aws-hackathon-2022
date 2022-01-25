@@ -9,7 +9,7 @@ We built an XGBoost model to predict the severity of wildfires in California usi
 
 ## Authors
 
-Contributors names and contact info
+Contributors names
 
 * Katherine Kelso
 * Michael MacMahon
