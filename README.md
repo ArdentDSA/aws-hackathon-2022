@@ -20,6 +20,6 @@ Contributors names
 
 ## Acknowledgments
 
-Data, code inspiration obtained from these sources:
+Data obtained from these sources:
 * [1.88 Million US Wildfires](https://www.kaggle.com/rtatman/188-million-us-wildfires)
 * [NOAA Physical Sciences Laboratory](https://psl.noaa.gov/data/gridded/tables/daily.html)
